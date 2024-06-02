@@ -1,5 +1,6 @@
 # A & D
 
-https://github.com/AngelsAndDemonsDM/DM-Bot
+### Ссылки на репозитории
+[Основной репозиторий](https://github.com/AngelsAndDemonsDM/DM-Bot.git)
 
-https://github.com/AngelsAndDemonsDM/DM-Bot-Updater
+[Репозиторий апдейтера для винды](https://github.com/AngelsAndDemonsDM/DM-Bot-Updater.git)
